@@ -16,10 +16,11 @@ timezone: Asia/Shanghai
 
 title: qxz41659 # the main title
 
-tagline: qxz41659 的博客 # it will display as the subtitle
+tagline: Wir müssen wissen, Wir werden wissen.
+ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  qxz41659 的博客
+  qxz41659 的博客。
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://qxz41659.github.com"
